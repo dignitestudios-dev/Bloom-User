@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.dignitestudios.bloomapp",
+      "sha256_cert_fingerprints": [
+        "8F:3A:9D:35:29:9C:4C:74:48:AC:B0:F3:37:0C:7C:F0:6E:69:FF:BC:1A:78:56:72:A4:5C:D5:87:5E:6C:7A:EF",
+        "75:B4:71:FA:6A:18:BE:F0:A4:37:09:68:98:E4:B6:E2:58:95:88:8A:8F:E8:66:04:BE:61:D7:AD:D5:D8:5F:C4"
+      ]
+    }
+  }
+]
